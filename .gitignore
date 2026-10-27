@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+*$py.class
+cache_cvm/
+Artigo_backup.xlsx
+.ipynb_checkpoints/
