@@ -1,0 +1,30 @@
+*BRFS3*: BRF
+*CCRO3*: Grupo CCR
+*CMIG4*: Cemig (Companhia Energética de Minas Gerais)
+*CPLE6*: Copel (Companhia Paranaense de Energia)
+*CSNA3*: Companhia Siderúrgica Nacional (CSN)
+*EGIE3*: Engie Brasil
+*ELET3*: Eletrobras
+*GGBR4*: Gerdau
+*GOAU4*: Metalúrgica Gerdau
+*JBSS3*: JBS
+*KLBN11*: Klabin
+*LREN3*: Lojas Renner
+*MDIA3*: M. Dias Branco
+*MGLU3*: Magazine Luiza
+*MRFG3*: Marfrig
+*NTCO3*: Natura &Co
+*PETR4*: Petrobras
+*PRIO3*: PRIO (antiga PetroRio)
+*RADL3*: Raia Drogasil (RD Saúde)
+*RECV3*: PetroRecôncavo
+*RENT3*: Localiza
+*SUZB3*: Suzano
+*TIMS3*: TIM Brasil
+*TRPL4*: ISA CTEEP (Companhia de Transmissão de Energia Elétrica Paulista)
+*UGPA3*: Ultrapar
+*USIM5*: Usiminas
+*VALE3*: Vale
+*VBBR3*: Vibra Energia (antiga BR Distribuidora)
+*VIVO3*: Telefônica Brasil (Vivo)
+*WEGE3*: WEG
